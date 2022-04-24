@@ -1,2 +1,2 @@
 # Relational_database_design
-[пример](http://example.com/ "Необязательная подсказка")
+[пример](file:///C:/Users/schek/Downloads/Курсовая%20работа%20Щекотовская%20АС-19-04.pdf)
